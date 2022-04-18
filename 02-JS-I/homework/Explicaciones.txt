@@ -1,0 +1,21 @@
+*Variables
+
+Es un contenedor que se le asigna un nombre, en el cual puedes almacenar algún tipo de dato.
+
+*String
+
+Es un conunto de letras, números y símbolos en forma de texto.
+
+*Funciones (argumentos, return)
+
+Una función es una tarea específica la cual puede o no necesitar datos para poder realizarse, y te
+devuelve el resultado de la tarea.
+
+*Declaraciones if
+
+Un if es una pregunta para saber si una condicion se esta cumpliendo.
+
+*Valores boolenaos(true, false)
+
+Un valor booleano es similar a lo que se obtiene de una pregunta que solo puede ser contestada con si o no.
+

@@ -1,0 +1,15 @@
+*For
+
+Es un ciclo que se usa cuando se conoce el número de veces que se debe ejecutar un bloque de codigo.
+
+*&&
+
+Es una condicion que se cumple si y solo si el resultado de dos o mas evaluaciones son verdaderas.
+
+*||
+
+Es una condición que se cumple cuando el resultado de mínimo una evaluación, de dos o más evaluaciones, es verdadera.
+
+*!
+
+Es una condición que da el resultado opuesto de una evaluación.

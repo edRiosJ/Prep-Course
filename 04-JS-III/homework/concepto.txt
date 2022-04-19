@@ -1,0 +1,3 @@
+*Array
+
+Un array es un contenedor para guardar una coleccion de datos sin importar que sean de diferente tipo.

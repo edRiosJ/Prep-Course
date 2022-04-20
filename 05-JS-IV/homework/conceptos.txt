@@ -1,0 +1,19 @@
+*Objeto
+
+Es una coleccion de propiedades y metodos.
+
+*Propiedades
+
+Son las caracteristicas de un objeto.
+
+*Metodo
+
+Es una accion que puede realizar un objeto.
+
+*Bucle for...in
+
+Es una alternativa del bucle for que se usa cuando los indices a recorrer no son numericos.
+
+*Notacion de puntos vs notacion de corchetes
+
+Ambas notaciones son para acceder a las propiedades y metodos de un objeto, la diferencia es que en la notación de puntos solo se puede acceder a la propiedad o metodo poniendo el nombre exacto de está y en la notación con corchetes se puede aaceder a la propiedad o metodo de diferentes formas como haciendo uso de variables o el nombre de la propiedad.

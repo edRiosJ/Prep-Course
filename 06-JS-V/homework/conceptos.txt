@@ -1,0 +1,7 @@
+*Prototype
+
+Hace referencia al "obejto padre" de un objeto, del cual se pueden obtener propiedades y metodos asi como usar su constructor.
+
+*Constructors
+
+Sirve para crear una instancia de un objeto.

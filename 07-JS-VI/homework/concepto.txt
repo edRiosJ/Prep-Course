@@ -1,0 +1,3 @@
+*Callback
+
+Se le llama callback a una funcion que recibe como uno de sus parametros otra funcion.
